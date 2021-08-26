@@ -1,4 +1,5 @@
 function solvePuzzle(pieces) {
+  console.log(pieces);
   return [pieces[0].id];
 }
 
